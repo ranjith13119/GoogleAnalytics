@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"gaportalplugin": {
+			"component": "gaportalplugin",
+			"url": "../../../../../"
+		}
+	}
+}
